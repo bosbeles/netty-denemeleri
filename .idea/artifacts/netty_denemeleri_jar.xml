@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="netty-denemeleri:jar">
+    <output-path>$USER_HOME$/Desktop/test</output-path>
+    <root id="root">
+      <element id="archive" name="netty-denemeleri.jar">
+        <element id="module-output" name="netty-denemeleri" />
+      </element>
+      <element id="library" level="project" name="Maven: io.netty:netty-all:5.0.0.Alpha2" />
+    </root>
+  </artifact>
+</component>
